@@ -1,0 +1,11 @@
+// Settings in here override those in "LSP-typescript/LSP-typescript.sublime-settings"
+{
+   "settings": {
+      "javascript.format.semicolons": "insert",
+      "javascript.referencesCodeLens.enabled": true,
+      "javascript.referencesCodeLens.showOnAllFunctions": true,
+      "typescript.format.semicolons": "insert",
+      "typescript.referencesCodeLens.enabled": true,
+      "typescript.referencesCodeLens.showOnAllFunctions": true
+   },
+}

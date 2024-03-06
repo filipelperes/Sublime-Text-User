@@ -1,0 +1,42 @@
+{
+	"auto_complete": true,
+	"auto_complete_trailing_symbols": true,
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/omni-sublime/Omni.tmTheme",
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font_face": "JetBrains Mono",
+	"font_options": "dlig",
+	"font_size": 10.7,
+	"git_diff_target": "head",
+	"highlight_modified_tabs": true,
+	"ignored_packages": [
+		"Vintage",
+	],
+	"indent_guide_options": [
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"index_files": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"move_to_limit_on_up_down": true,
+	"overlay_scroll_bars": "enabled",
+	"remember_layout": true,
+	"remember_open_files": true,
+	"rulers": [
+		80,
+		120
+	],
+	"scroll_past_end": false,
+	"show_encoding": true,
+	"show_full_path": false,
+	"show_line_endings": true,
+	"show_project_first": true,
+	"show_rel_path": true,
+	"tab_size": 3,
+	"theme": "gruvbox.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": "all",
+}

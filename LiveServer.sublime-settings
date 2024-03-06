@@ -1,0 +1,6 @@
+// Live Server Settings Windows
+{
+   "node_executable_path": "C:/Program Files/nodejs/node.exe",
+   "global_node_modules_path": "C:/Users/filipe/AppData/Roaming/npm/node_modules",
+   "wait": 50
+}
