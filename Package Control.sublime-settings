@@ -59,6 +59,7 @@
 		"LSP-clangd",
 		"LSP-cspell",
 		"LSP-css",
+		"LSP-Dart",
 		"LSP-dockerfile",
 		"LSP-elixir",
 		"LSP-eslint",
